@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+li {
+  list-style: none;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+a {
+  margin: 5px;
+}
