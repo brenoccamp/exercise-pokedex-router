@@ -4,8 +4,8 @@ class NotFound extends React.Component {
   render() {
     return (
       <div>
-        <h4>Page requested not found! <span>&#x1F62D;</span></h4>
-        <img src="https://i.kym-cdn.com/photos/images/facebook/000/837/731/fb4.jpg" alt="pikachu chorando" />
+        <h2>Page requested not found! <span role="img" aria-label="Cryingman">&#128557;</span></h2>
+        <img src="https://c.tenor.com/4uPJsA8k1KEAAAAM/pokemon-pikachu.gif" alt="pikachu chorando" />
       </div>
     )
   }

@@ -12,7 +12,7 @@ class About extends React.Component {
         <b>Funções</b>:<br></br>
         O Pokédex é um dispositivo portátil de enciclopédia eletrônica; aquele que é capaz de registrar e reter informações dos vários Pokémon do mundo. Para cumprir o objetivo do Professor Oak de um banco de dados Pokémon completo, o Pokédex foi projetado para encontrar e registrar dados sobre cada Pokémon que o Treinador encontra. Os Pokémon são adicionados ao Pokédex simplesmente ao encontrá-los na batalha ou, às vezes, ao ver uma foto do Pokémon. No entanto, as entradas detalhadas não são registradas até que o jogador pegue o Pokémon, receba-o como um prêmio / presente ou adquira-o em uma troca.
         </p>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBg2ZZ9W73Ysf-n4QHTDU6G_bCgbbi8mTv1r9zzs1P9qE5M5AaX1tMP1dw6ldRbtKF02w&usqp=CAU" alt="pokedex" />
+        <img src="https://w7.pngwing.com/pngs/213/386/png-transparent-pokemon-black-2-and-white-2-pokemon-black-white-pokedex-kanto-fies-electronics-gadget-electronic-device.png" alt="pokedex" />
       </section>
     );
   }
